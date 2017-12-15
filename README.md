@@ -100,18 +100,5 @@ end
 
 <img src = "imagenes/array.png">
 
-## Presentación de resultados
-
-Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
-
-## Recompensa
-
-* Todos los alumnos que realicen correctamente la actividad tendrán 0'25 puntos extra en la nota del trimestre.
-
-* Los miembros del equipo más votado ganarán un premio.
-
-=======
-```  
->>>>>>> 51b3c19e22a09d2237d0fb3b701ce41bceddf2ff
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
