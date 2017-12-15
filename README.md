@@ -44,7 +44,25 @@ Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf
 
 ## Información sobre el lenguaje
 
-Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe aquí las principales características: cuándo y para qué se creó, en qué ámbito se utiliza, cuáles son sus principales ventajas, etc. Pon aquí enlaces y capturas de pantalla.
+Ruby es un lenguaje de programación interpretado, reflexivo y orientado a objetos, creado por el programador japonés Yukihiro "Matz" Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995. Combina una sintaxis inspirada en Python y Perl con características de programación orientada a objetos similares a Smalltalk.
+
+Lenguaje de guiones interpretado:
+• Posibilidad de realizar directamente llamadas al sistema operativo
+• Potentes operaciones sobre cadenas de caracteres y expresiones regulares
+• Retroalimentación inmediata durante el proceso de desarrollo
+
+Rápido y sencillo:
+• Son innecesarias las declaraciones de variables
+• Las variables no tienen tipo
+• La sintaxis es simple y consistente
+• La gestión de la memoria es automática
+
+Programación orientada a objetos:
+• Todo es un objeto
+• Clases, herencia, métodos, ...
+• Métodos singleton
+• Mixins por módulos
+• Iteradores y cierres
 
 ## Herramientas de desarrollo
 
