@@ -94,7 +94,7 @@ puts "¡Hola Mundo!
 
 ```
 
-<img src = "escritorio/holamundoruby.png" width="649" height="247">
+<img src = "desktop/holamundoruby.png" width="649" height="247">
 
 ### 2. Pirámide
 
