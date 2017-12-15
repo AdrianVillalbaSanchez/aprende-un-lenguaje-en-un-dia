@@ -64,6 +64,10 @@ ruby nombredelfichero.rb
 ### 1. ¡Hola mundo!
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
+```ruby
+puts "¡Hola Mundo!"
+```
+
 
 ### 2. Pirámide
 
