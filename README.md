@@ -76,7 +76,14 @@ sudo apt-get install ruby
 
 ## Poniendo en práctica el lenguaje
 
-Pon en práctica el lenguaje de programación realizando los siguientes ejercicios. Para cada uno de los ejercicios, pega el código fuente de la solución y una captura de pantalla.
+Para hacer un programa en Ruby basta con escribir en un fichero de texto el código y guardarlo con la extensión _.rb_  
+Para ejecutarlo hay que poner en la terminal lo siguiente:  
+
+```java
+
+ruby nombredelfichero.rb
+
+```
 
 ### 1. ¡Hola mundo!
 
