@@ -66,7 +66,9 @@ ruby nombredelfichero.rb
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 ```ruby
 puts "¡Hola Mundo!"
-```
+```  
+
+<img src = "Escritorio/holamundoruby.png">
 
 
 ### 2. Pirámide
