@@ -95,7 +95,6 @@ end
 for i in 0..numeros.length
 	puts numeros[i]
 end
-<<<<<<< HEAD
 ```
 
 <img src = "imagenes/array.png">
