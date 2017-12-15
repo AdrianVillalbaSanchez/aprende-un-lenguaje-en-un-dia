@@ -30,7 +30,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 * [Adrián Villalba](https://github.com/AdrianVillalbaSanchez)
 * [Lucía Blanco](https://github.com/lucia-blanco)
-* [Juan Francisco Bernal](https://github.com/jfbernal92)
+* [Juanfran Bernal](https://github.com/jfbernal92)
 
 ## Lenguaje de programación
 
@@ -89,21 +89,34 @@ ruby nombredelfichero.rb
 
 Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 
-``` ruby
-puts "¡Hola Mundo!
-
-```
-
-<img src = "desktop/holamundoruby.png" width="649" height="247">
-
 ### 2. Pirámide
 
 Dada una altura introducida por el usuario, realiza un programa que pinte una pirámide a base de asteriscos con la altura indicada.
+```ruby
+puts "Introduce la altura de la pirámide"
+h = gets.chomp.to_i.abs
+
+c = '*'
+valor = c
+
+for i in 1..h
+	puts " "*(h - i)+valor
+	valor += c*2
+end
+```
 
 ### 3. Arrays y números aleatorios
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
-
+```ruby
+ numeros = Array.new(20)
+for i in 0..numeros.length
+	numeros.at(i) = rand(100)
+end
+for i in 0..numeros.length
+	puts numeros[i]
+end
+```
 ## Presentación de resultados
 
 Cada equipo explicará al resto de la clase lo aprendido durante la realización del ejercicio. Todos los miembros de cada equipo deben participar en la explicación. Se puede utilizar como material de base para la presentación el repositorio de GitHub.
