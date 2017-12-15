@@ -68,7 +68,7 @@ Realiza un programa que muestre por pantalla la frase **¡Hola mundo!**.
 puts "¡Hola Mundo!"
 ```  
 
-<img src = "Escritorio/holamundoruby.png">
+<img src = "Desktop/holamundoruby.png">
 
 
 ### 2. Pirámide
