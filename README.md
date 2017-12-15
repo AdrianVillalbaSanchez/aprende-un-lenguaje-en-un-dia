@@ -48,7 +48,13 @@ Busca páginas y/o manuales sobre el lenguaje de programación elegido. Escribe 
 
 ## Herramientas de desarrollo
 
-Indica aquí qué software has tenido que instalar para programar en este lenguaje. Añade enlaces y/o capturas de pantalla.
+Para instalar Ruby en Windows, descarga [Ruby Installer](http://dl.bintray.com/oneclick/rubyinstaller/rubyinstaller-2.0.0-p451.exe?direct). Luego, ejecuta el instalador, sigue los pasos de instalación y listo.
+
+Para instalarlo en Ubuntu escribe lo siguiente en la terminal:
+
+```java
+sudo apt-get install ruby
+```
 
 ## Poniendo en práctica el lenguaje
 
