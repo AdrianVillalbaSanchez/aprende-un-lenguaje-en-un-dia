@@ -30,7 +30,7 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 
 * [Adrián Villalba](https://github.com/AdrianVillalbaSanchez)
 * [Lucía Blanco](https://github.com/lucia-blanco)
-* [Juanfran Bernal](https://github.com/jfbernal92)
+* [Juan Francisco Bernal](https://github.com/jfbernal92)
 
 ## Lenguaje de programación
 
