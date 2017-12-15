@@ -9,14 +9,9 @@ Escribe aquí los miembros del grupo. El primero es el representante o encargado
 * [Juanfran Bernal](https://github.com/jfbernal92)
 
 ## Lenguaje de programación
-
-El profesor llevará una cajita llena de papelitos con los nombres de distintos lenguajes de programación. Los encargados de cada grupo meterán la mano en la caja y sacarán dos papelitos, de los cuales el grupo elegirá uno. Se permite hacer intercambio de papelitos entre grupos.
-
-Escribe el lenguaje de programación elegido por el grupo.
+Lenguaje de programación elegido por el grupo.
 
 * Ruby
-
-Los papelitos se han recortado de este [documento](lenguajes_de_programacion.pdf).
 
 ## Información sobre el lenguaje
 
@@ -100,6 +95,7 @@ end
 for i in 0..numeros.length
 	puts numeros[i]
 end
+<<<<<<< HEAD
 ```
 
 <img src = "imagenes/array.png">
@@ -114,5 +110,8 @@ Cada equipo explicará al resto de la clase lo aprendido durante la realización
 
 * Los miembros del equipo más votado ganarán un premio.
 
+=======
+```  
+>>>>>>> 51b3c19e22a09d2237d0fb3b701ce41bceddf2ff
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
