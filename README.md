@@ -92,7 +92,7 @@ require 'prime'
 
 numeros = []
 for i in 0...20
-	numeros[i] = rand(100) 
+  numeros[i] = rand(100) 
 end
 puts "Array generado:"
 p numeros
@@ -103,7 +103,6 @@ numeros.clear
 
 cont = 0;
 aux.each{ |n| 
-
   if n.prime? 
     numeros.insert(cont, n)
     cont += 1
@@ -115,7 +114,7 @@ aux.each{ |n|
 p numeros
 ```
 
-<img src = "imagenes/array.png">
+<img src = "imagenes/array primos.png">
 
 :star: Si te ha gustado este ejercicio, dale una estrellita al [repositorio original](https://github.com/LuisJoseSanchez/aprende-un-lenguaje-en-un-dia).
 
