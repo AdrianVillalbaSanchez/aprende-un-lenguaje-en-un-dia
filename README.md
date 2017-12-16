@@ -88,13 +88,31 @@ end
 
 Realiza un programa que rellene un array (o una estructura similar) con 20 números enteros aleatorios entre 1 y 100 y que seguidamente los muestre por pantalla. A continuación, se deben pasar los números primos a las primeras posiciones del array y los no primos a las posiciones restantes. Muestra finalmente el array resultado.
 ```ruby
- numeros = Array.new(20)
-for i in 0..numeros.length
-	numeros[i] = rand(100)
+require 'prime'
+
+numeros = []
+for i in 0...20
+	numeros[i] = rand(100) 
 end
-for i in 0..numeros.length
-	puts numeros[i]
-end
+puts "Array generado:"
+p numeros
+
+puts "Array ordenado:"
+aux = numeros.clone
+numeros.clear
+
+cont = 0;
+aux.each{ |n| 
+
+  if n.prime? 
+    numeros.insert(cont, n)
+    cont += 1
+  else
+    numeros.push(n)
+  end
+}
+
+p numeros
 ```
 
 <img src = "imagenes/array.png">
