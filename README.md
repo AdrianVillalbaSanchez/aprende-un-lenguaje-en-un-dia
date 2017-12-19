@@ -1,4 +1,4 @@
-﻿# Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota).
+## Aprende un lenguaje de programación en un día (ejercicio voluntario para subir nota). ![logo](imagenes/logo.png) 
 
 ## Miembros del grupo
 
